@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LAPTOP-NA3OQ0PP" failures="0" tests="1" name="com.firstproject.QA.TestCases.RegistrationTest" time="5.086" errors="0" timestamp="13 Feb 2023 09:12:07 GMT">
+  <testcase classname="com.firstproject.QA.TestCases.RegistrationTest" name="FbRegistrationPageTest" time="1.843"/>
+</testsuite>

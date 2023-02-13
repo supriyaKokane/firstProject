@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[VerifyFbRegistrationPageFbLogo]]>
+    </line>
+    <line>
+      <![CDATA[VerifyFbRegistrationPageTagline]]>
+    </line>
+    <line>
+      <![CDATA[VerifyFbRegistrationPageAlreadyAccountLink]]>
+    </line>
+    <line>
+      <![CDATA[VerifyFbRegistrationPageFooterLinks]]>
+    </line>
+    <line>
+      <![CDATA[SetFbRegistrationPageFirstname]]>
+    </line>
+    <line>
+      <![CDATA[SetFbRegistrationPageLastname]]>
+    </line>
+    <line>
+      <![CDATA[SetFbRegistrationPageMobileEmail]]>
+    </line>
+    <line>
+      <![CDATA[SetFbRegistrationPagePassword]]>
+    </line>
+    <line>
+      <![CDATA[SetFbRegistrationPageBirthDate]]>
+    </line>
+    <line>
+      <![CDATA[SetFbRegistrationPageBirthMonth]]>
+    </line>
+    <line>
+      <![CDATA[SetFbRegistrationPageBirthYear]]>
+    </line>
+    <line>
+      <![CDATA[SetFbRegistrationPageGender]]>
+    </line>
+    <line>
+      <![CDATA[ClickFbRegistrationPageLoginBtn]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-19T11:12:27Z" name="Surefire suite" finished-at="2023-01-19T11:12:36Z" duration-ms="8998">
+    <groups>
+    </groups>
+    <test started-at="2023-01-19T11:12:27Z" name="Surefire test" finished-at="2023-01-19T11:12:36Z" duration-ms="8998">
+      <class name="com.firstproject.QA.TestCases.RegistrationTest">
+        <test-method is-config="true" signature="bsetup()" started-at="2023-01-19T11:12:27Z" name="bsetup" finished-at="2023-01-19T11:12:35Z" duration-ms="8243" status="PASS">
+        </test-method>
+        <test-method signature="FbRegistrationPageTest()" started-at="2023-01-19T11:12:35Z" name="FbRegistrationPageTest" finished-at="2023-01-19T11:12:36Z" duration-ms="644" status="PASS">
+        </test-method>
+        <test-method is-config="true" signature="bclose()" started-at="2023-01-19T11:12:36Z" name="bclose" finished-at="2023-01-19T11:12:36Z" duration-ms="107" status="PASS">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
